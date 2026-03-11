@@ -7,6 +7,7 @@ Salut ! Je suis **Samuel**, passionné par le développement, l’automatisation
 🔹 **Notify-Youtube-Discord** – Un script permettant de recevoir des notifications sur Discord lorsqu’une nouvelle vidéo est publiée sur une chaîne YouTube.  
 🔹 **Notify-SSH-Login** – Un outil de surveillance pour être alerté sur Discord à chaque connexion SSH à un serveur.  
 🔹 **Instagram-Webhook** – Un système d’intégration permettant d’envoyer automatiquement des posts Instagram vers un serveur Discord via Webhooks.  
+🔹 **MongoDB Gui** – Interface web pour gére votre base de donnée MongoDB 
 
 ## 🔧 Technologies utilisées  
 🖥️ **Node.js, Python, APIs, Webhooks, Automatisation**  
